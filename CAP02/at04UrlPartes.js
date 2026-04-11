@@ -1,3 +1,8 @@
+/*
+    módulo url recupera dados passados na string de uma url
+*/
+
+
 'const url = require("url")'
 
 const url = require("url")
