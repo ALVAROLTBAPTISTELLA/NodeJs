@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "sansão",
+    "especie": "cachorro",
+    "idadeAproximada": "2",
+    "porteTamanho": "grande",
+    "corPredominante": "branco",
+    "corSecundaria": "branco"
+  },
+  {
+    "nome": "meleka",
+    "especie": "cachorro",
+    "idadeAproximada": "3",
+    "porteTamanho": "grande",
+    "corPredominante": "pardo",
+    "corSecundaria": "branco"
+  }
+]
